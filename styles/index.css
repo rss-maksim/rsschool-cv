@@ -10,7 +10,8 @@ body {
 .page-container {
   box-sizing: border-box;
   margin: 0 auto;
-  width: 1024px;
+  max-width: 1024px;
+  width: 100%;
   background: rgba(202, 202, 202, 0.1);
   padding: 0 20px;
   height: 100%;
@@ -57,7 +58,7 @@ header {
 
 @media screen and (max-width: 767px) {
   .page-container {
-    width: 100%;
+    max-width: 100%;
   }
 
   .main-container {
