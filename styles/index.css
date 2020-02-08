@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+}
+
+body {
+  font-family: "Roboto", Arial, sans-serif;
+  height: 100%;
+}
+
+.page-container {
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 1024px;
+  background: rgba(202, 202, 202, 0.1);
+  padding: 0 20px;
+  height: 100%;
+}
+
+header {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 18px;
+  font-weight: bold;
+  border-bottom: 2px rgba(204, 204, 204, 0.4) solid;
+}
+
+.main-container {
+  box-sizing: border-box;
+  display: flex;
+  padding: 20px 0;
+}
+
+.photo-area {
+  display: inline-block;
+}
+
+.photo-area .picture {
+  border-radius: 50%;
+}
+
+.text-area {
+  margin-left: 30px;
+  line-height: 24px;
+}
+
+.text-area > ol {
+  list-style-type: decimal;
+}
+
+.text-area ul {
+  margin-left: 25px;
+}
