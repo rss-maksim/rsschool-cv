@@ -1,6 +1,9 @@
 1. Maksim Kirylka
 2. email: maksimkirilko@gmail.com, skype: maksim.kirilko
 3. Summary
+   My wishes are continuing education and development in various domains.
+   Also I would like to try to help novice developers over mentoring to speed up start in IT through getting new knowledge and experience.
+   I'm sure It'll let me grow as developer and improve my soft skills. 
 4. Skills
  - Programming languages: Javascript, Typescript
  - Frameworks: React.js, Angular, Next.js
